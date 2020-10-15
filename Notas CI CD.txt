@@ -1,0 +1,57 @@
+anaclaudiacruz
+
+
+Build > TDD > BDD > DEV > STAGE > PROD
+
+cd C:\Users\003836343\Desktop
+mkdir Build 
+cd Build 
+
+
+cd C:\Users\003836343\Desktop\Build 
+mkdir TDD
+cd TDD
+
+
+cd C:\Users\003836343\Desktop\BuilD\TDD
+mkdir BDD
+cd BDD
+
+
+cd C:\Users\003836343\Desktop\BuilD\TDD\BDD
+mkdir DEV
+cd DEV
+
+
+cd C:\Users\003836343\Desktop\BuilD\TDD\BDD\DEV
+mkdir STAGE 
+cd STAGE 
+
+cd C:\Users\003836343\Desktop\BuilD\TDD\BDD\DEV\STAGE
+mkdir PROD
+cd PROD
+
+cd C:\Users\003836343\Desktop\BuilD\TDD\BDD\DEV\STAGE\PROD
+mkdir FIM
+cd FIM
+
+
+
+dev-valida-cpf-ana
+
+
+cd C:\Users\003836343\Desktop\Java\turma5_itau_devops
+heroku git:remote -a dev-valida-cpf-ana
+
+
+
+cd C:\Users\003836343\Desktop\Java\turma5_itau_devops
+git push heroku master
+
+
+orientação a objeto
+primeiro conteudo
+
+
+
+postgres://izzltoyqsmzpfb:427de7fd6673ca3ef78f5b97c31af0d062e6ec90812fea5e14edcc439b2a248d@ec2-3-223-9-166.compute-1.amazonaws.com:5432/dcgsqdad0cvc4e
